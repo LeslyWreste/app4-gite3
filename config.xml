@@ -13,7 +13,8 @@ Aplicacion que muestra iformacion sobre la contaminacion de mi comunidad
 <author href="https://build.phonegap.com" email="less_wreste15@hotmail.com">
 Lesly Milan Wreste
 </author>
-
+<allow-intent href="https://*/*"/>
+<acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 
